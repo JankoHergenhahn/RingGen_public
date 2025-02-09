@@ -1,0 +1,87 @@
+X -o -c -o          1.1          180.          2.           JCC,7,(1986),230
+X -X -c -o          10.5         180.          2.           JCC,7,(1986),230
+X -X -ca-ha         1.1          180.          2.           bsd.on C6H6 nmodes
+X -X -n -hn         1.1          180.          2.           JCC,7,(1986),230
+X -X -n2-hn         1.1          180.          2.           JCC,7,(1986),230
+X -X -na-hn         1.1          180.          2.           JCC,7,(1986),230
+X -c3-n -c3         1.1          180.          2.           JCC,7,(1986),230
+X -n2-ca-n2         10.5         180.          2.           JCC,7,(1986),230
+c -c2-c2-c3         1.1          180.          2.           dac guess, 9/94
+c -ca-ca-c3         1.1          180.          2.           dac guess, 9/94
+c -c3-n -hn         1.1          180.          2.           Junmei et al.1999
+c -c3-n -o          1.1          180.          2.           Junmei et al.1999
+c2-c2-na-c3         1.1          180.          2. 
+c2-c -c2-c3         1.1          180.          2. 
+c2-c3-c2-hc         1.1          180.          2.           Junmei et al.1999
+c2-c3-ca-hc         1.1          180.          2.           Junmei et al.1999
+c2-hc-c -o          1.1          180.          2.           Junmei et al.1999
+c3-o -c -oh         1.1          180.          2.
+c3-c2-c2-n2         1.1          180.          2.
+c3-c2-c2-na         1.1          180.          2.
+c3-ca-ca-n2         1.1          180.          2.
+c3-ca-ca-na         1.1          180.          2.
+ca-ca-ca-c2         1.1          180.          2. 
+ca-ca-ca-c3         1.1          180.          2. 
+ca-ca-ca-f          1.1          180.          2.           Junmei et al.1999
+ca-ca-ca-cl         1.1          180.          2.           Junmei et al.1999
+ca-ca-ca-br         1.1          180.          2.           Junmei et al.1999
+ca-ca-ca-i          1.1          180.          2.           Junmei et al.1999
+ca-ca-c -oh         1.1          180.          2.           (not used in tyr!)
+ca-ca-na-c3         1.1          180.          2.
+ca-c -ca-c3         1.1          180.          2. 
+ca-hc-c -o          1.1          180.          2.           Junmei et al.1999
+ca-n2-ca-n2         1.1          180.          2.           dac, 10/94
+hc-o -c -oh         1.1          180.          2.           Junmei et al.1999
+hc-o -c -os         1.1          180.          2.           
+n2-c2-ca-n2         1.1          180.          2.           dac guess, 9/94
+n2-ca-ca-n2         1.1          180.          2.           dac guess, 9/94
+na-n2-ca-n2         1.1          180.          2.           dac, 10/94
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-ca-ca-ca         1.1          180.0         2.0          Using the default value
+ca-cp-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-ca-cp-cp         1.1          180.0         2.0          Using the default value
+ca-cq-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-cp-cp-cq         1.1          180.0         2.0          Using the default value
+ca-cp-cq-cq         1.1          180.0         2.0          Using the default value
+ca-ca-cq-cq         1.1          180.0         2.0          Using the default value
+cp-cp-cq-cq         1.1          180.0         2.0          Same as c2-ca-ca-ca, penalty score=363.5)
+ca-ca-ca-cg         1.1          180.0         2.0          Using the default value
+ca-ca-ca-ch         1.1          180.0         2.0          Using the default value
+ca-ca-ca-oh         1.1          180.0         2.0          Using the default value
+ca-ca-ca-os         1.1          180.0         2.0          Using the default value
+ca-h4-c -o         10.5          180.0         2.0          Using general improper torsional angle  X- X- c- o, penalty score=  6.0)
+c -ca-ca-ca         1.1          180.0         2.0          Using the default value
+c3-ca-c -o         10.5          180.0         2.0          Using general improper torsional angle  X- X- c- o, penalty score=  6.0)
+ca-o -c -os         1.1          180.0         2.0          Using the default value
+ca-n -c -o         10.5          180.0         2.0          Using general improper torsional angle  X- X- c- o, penalty score=  6.0)
+ca-h4-ca-nb         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 44.3 (use general term))
+c3-ca-ca-nb         1.1          180.0         2.0          Using the default value
+cc-cd-cc-ha         1.1          180.0         2.0          Using the default value
+cc-h4-cd-na         1.1          180.0         2.0          Using the default value
+cd-cd-na-hn         1.1          180.0         2.0          Using the default value
+cd-h4-cc-os         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 67.2 (use general term))
+cc-cd-cd-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 38.9 (use general term))
+cc-h4-cd-ss         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 67.2 (use general term))
+cc-cd-cc-cg         1.1          180.0         2.0          Using the default value
+cc-ch-cd-na         1.1          180.0         2.0          Using the default value
+cc-ch-cd-os         1.1          180.0         2.0          Using the default value
+cc-ch-cd-ss         1.1          180.0         2.0          Using the default value
+cd-h4-cc-nc         1.1          180.0         2.0          Using the default value
+h5-na-cd-nc         1.1          180.0         2.0          Using the default value
+c3-cd-na-cd         1.1          180.0         2.0          Using the default value
+c1-cd-na-cd         1.1          180.0         2.0          Using the default value
+ca-ca-ca-na         1.1          180.0         2.0          Using the default value
+ca-cd-na-cd         1.1          180.0         2.0          Using the default value
+cc-h4-cd-nd         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 67.2 (use general term))
+cd-h4-cc-na         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 67.2 (use general term))
+cc-hn-na-nc         1.1          180.0         2.0          Using the default value
+c3-cd-cc-nc         1.1          180.0         2.0          Using the default value
+c3-cd-na-nd         1.1          180.0         2.0          Using the default value
+X -X -cp-cp         1.1          180.0         2.0          Using the default value
+X -X -cq-cq         1.1          180.0         2.0          Using the default value
+X -X -ca-cg         1.1          180.0         2.0          Using the default value
+X -X -ca-ch         1.1          180.0         2.0          Using the default value
+X -X -cc-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 38.9 (use general term))
+X -X -ce-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 38.9 (use general term))
+X -X -ce-cg         1.1          180.0         2.0          Using the default value
+X -X -ce-ch         1.1          180.0         2.0          Using the default value

@@ -1,0 +1,43 @@
+X -o -c -o          1.1          180.          2.           JCC,7,(1986),230
+X -X -c -o          10.5         180.          2.           JCC,7,(1986),230
+X -X -ca-ha         1.1          180.          2.           bsd.on C6H6 nmodes
+X -X -n -hn         1.1          180.          2.           JCC,7,(1986),230
+X -X -n2-hn         1.1          180.          2.           JCC,7,(1986),230
+X -X -na-hn         1.1          180.          2.           JCC,7,(1986),230
+X -c3-n -c3         1.1          180.          2.           JCC,7,(1986),230
+X -n2-ca-n2         10.5         180.          2.           JCC,7,(1986),230
+c -c2-c2-c3         1.1          180.          2.           dac guess, 9/94
+c -ca-ca-c3         1.1          180.          2.           dac guess, 9/94
+c -c3-n -hn         1.1          180.          2.           Junmei et al.1999
+c -c3-n -o          1.1          180.          2.           Junmei et al.1999
+c2-c2-na-c3         1.1          180.          2. 
+c2-c -c2-c3         1.1          180.          2. 
+c2-c3-c2-hc         1.1          180.          2.           Junmei et al.1999
+c2-c3-ca-hc         1.1          180.          2.           Junmei et al.1999
+c2-hc-c -o          1.1          180.          2.           Junmei et al.1999
+c3-o -c -oh         1.1          180.          2.
+c3-c2-c2-n2         1.1          180.          2.
+c3-c2-c2-na         1.1          180.          2.
+c3-ca-ca-n2         1.1          180.          2.
+c3-ca-ca-na         1.1          180.          2.
+ca-ca-ca-c2         1.1          180.          2. 
+ca-ca-ca-c3         1.1          180.          2. 
+ca-ca-ca-f          1.1          180.          2.           Junmei et al.1999
+ca-ca-ca-cl         1.1          180.          2.           Junmei et al.1999
+ca-ca-ca-br         1.1          180.          2.           Junmei et al.1999
+ca-ca-ca-i          1.1          180.          2.           Junmei et al.1999
+ca-ca-c -oh         1.1          180.          2.           (not used in tyr!)
+ca-ca-na-c3         1.1          180.          2.
+ca-c -ca-c3         1.1          180.          2. 
+ca-hc-c -o          1.1          180.          2.           Junmei et al.1999
+ca-n2-ca-n2         1.1          180.          2.           dac, 10/94
+hc-o -c -oh         1.1          180.          2.           Junmei et al.1999
+hc-o -c -os         1.1          180.          2.           
+n2-c2-ca-n2         1.1          180.          2.           dac guess, 9/94
+n2-ca-ca-n2         1.1          180.          2.           dac guess, 9/94
+na-n2-ca-n2         1.1          180.          2.           dac, 10/94
+X -X -ca-h4         1.1          180.          2.           same as X-X-ca-ha, added by Janko Hergenhahn
+X -X -ca-cg         1.1          180.          2.           same as X-X-ca-ha, added by Janko Hergenhahn
+X -X -ca-ch         1.1          180.          2.           same as X-X-ca-ha, added by Janko Hergenhahn
+X -X -cp-cp         1.1          180.          2.           same as X-X-ca-ha, added by Janko Hergenhahn
+X -X -cq-cq         1.1          180.          2.           same as X-X-ca-ha, added by Janko Hergenhahn
